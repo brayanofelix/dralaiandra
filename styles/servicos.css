@@ -58,6 +58,7 @@ header nav div a img {
     margin: auto;
     background-color: #216197;
     color: white;
+    height: 400px;
     text-align: center;
     padding: 20px;
     border-radius: 30px;
@@ -73,7 +74,7 @@ header nav div a img {
 
 .card-p {
     padding: 10px;
-    font-size: 1rem;
+    font-size: 1.3rem;
     line-height: 1.5;
 }
 
@@ -95,6 +96,7 @@ footer {
 @media (max-width: 930px) {
     .card {
         width: 250px;
+        height: auto;
     }
 }
 
