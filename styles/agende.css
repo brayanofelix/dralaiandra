@@ -67,7 +67,7 @@ button {
 }
 
 .full-screen-bg {
-    background-image: url('/images/agendee.png');
+    background-image: url('images/agendee.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
